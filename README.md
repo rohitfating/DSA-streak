@@ -21,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rohitfating/DSA-streak/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/rohitfating/DSA-streak/tree/master/3745-maximize-expression-of-three-elements) |
+## Greedy
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/rohitfating/DSA-streak/tree/master/3745-maximize-expression-of-three-elements) |
+## Sorting
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/rohitfating/DSA-streak/tree/master/3745-maximize-expression-of-three-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/rohitfating/DSA-streak/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
