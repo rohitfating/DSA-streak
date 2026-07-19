@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohitfating/DSA-streak/tree/master/0004-median-of-two-sorted-arrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitfating/DSA-streak/tree/master/3745-maximize-expression-of-three-elements) |
 ## Greedy
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rohitfating/DSA-streak/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohitfating/DSA-streak/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rohitfating/DSA-streak/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
