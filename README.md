@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/rohitfating/DSA-streak/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2235-add-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rohitfating/DSA-streak/tree/master/2469-convert-the-temperature) |
 ## Bit Manipulation
 |  |
