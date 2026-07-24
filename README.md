@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rohitfating/DSA-streak/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rohitfating/DSA-streak/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/rohitfating/DSA-streak/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/rohitfating/DSA-streak/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rohitfating/DSA-streak/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/rohitfating/DSA-streak/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rohitfating/DSA-streak/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
