@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/rohitfating/DSA-streak/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/rohitfating/DSA-streak/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/rohitfating/DSA-streak/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/0371-sum-of-two-integers) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rohitfating/DSA-streak/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rohitfating/DSA-streak/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rohitfating/DSA-streak/tree/master/0035-search-insert-position) |
+| [0137-single-number-ii](https://github.com/rohitfating/DSA-streak/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0283-move-zeroes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
