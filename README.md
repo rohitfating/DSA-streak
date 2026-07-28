@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rohitfating/DSA-streak/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0283-move-zeroes) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitfating/DSA-streak/tree/master/3745-maximize-expression-of-three-elements) |
 ## Greedy
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitfating/DSA-streak/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
