@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rohitfating/DSA-streak/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rohitfating/DSA-streak/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rohitfating/DSA-streak/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitfating/DSA-streak/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/rohitfating/DSA-streak/tree/master/0137-single-number-ii) |
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0283-move-zeroes) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rohitfating/DSA-streak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rohitfating/DSA-streak/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitfating/DSA-streak/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
