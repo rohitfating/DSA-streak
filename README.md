@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rohitfating/DSA-streak/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rohitfating/DSA-streak/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/rohitfating/DSA-streak/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rohitfating/DSA-streak/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rohitfating/DSA-streak/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohitfating/DSA-streak/tree/master/0342-power-of-four) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rohitfating/DSA-streak/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rohitfating/DSA-streak/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/rohitfating/DSA-streak/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/rohitfating/DSA-streak/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0283-move-zeroes) |
 ## String
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rohitfating/DSA-streak/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitfating/DSA-streak/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/rohitfating/DSA-streak/tree/master/0137-single-number-ii) |
+| [0189-rotate-array](https://github.com/rohitfating/DSA-streak/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
