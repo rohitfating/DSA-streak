@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rohitfating/DSA-streak/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/rohitfating/DSA-streak/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rohitfating/DSA-streak/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rohitfating/DSA-streak/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohitfating/DSA-streak/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/0371-sum-of-two-integers) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/rohitfating/DSA-streak/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/rohitfating/DSA-streak/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/rohitfating/DSA-streak/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rohitfating/DSA-streak/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/rohitfating/DSA-streak/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0283-move-zeroes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitfating/DSA-streak/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/rohitfating/DSA-streak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/rohitfating/DSA-streak/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitfating/DSA-streak/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
