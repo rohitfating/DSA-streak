@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rohitfating/DSA-streak/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/rohitfating/DSA-streak/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rohitfating/DSA-streak/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rohitfating/DSA-streak/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rohitfating/DSA-streak/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rohitfating/DSA-streak/tree/master/0342-power-of-four) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rohitfating/DSA-streak/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rohitfating/DSA-streak/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
