@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rohitfating/DSA-streak/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/rohitfating/DSA-streak/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/rohitfating/DSA-streak/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rohitfating/DSA-streak/tree/master/2469-convert-the-temperature) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rohitfating/DSA-streak/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/rohitfating/DSA-streak/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rohitfating/DSA-streak/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rohitfating/DSA-streak/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/rohitfating/DSA-streak/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -118,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rohitfating/DSA-streak/tree/master/0258-add-digits) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/rohitfating/DSA-streak/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
