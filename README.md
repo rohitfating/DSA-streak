@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/rohitfating/DSA-streak/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rohitfating/DSA-streak/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rohitfating/DSA-streak/tree/master/1025-divisor-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rohitfating/DSA-streak/tree/master/2469-convert-the-temperature) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohitfating/DSA-streak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/rohitfating/DSA-streak/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/rohitfating/DSA-streak/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rohitfating/DSA-streak/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/rohitfating/DSA-streak/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/rohitfating/DSA-streak/tree/master/1025-divisor-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -149,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rohitfating/DSA-streak/tree/master/0075-sort-colors) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rohitfating/DSA-streak/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/rohitfating/DSA-streak/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
