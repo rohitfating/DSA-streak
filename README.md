@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/rohitfating/DSA-streak/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rohitfating/DSA-streak/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/rohitfating/DSA-streak/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/rohitfating/DSA-streak/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rohitfating/DSA-streak/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rohitfating/DSA-streak/tree/master/0258-add-digits) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rohitfating/DSA-streak/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rohitfating/DSA-streak/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rohitfating/DSA-streak/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/rohitfating/DSA-streak/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohitfating/DSA-streak/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitfating/DSA-streak/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -171,5 +173,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rohitfating/DSA-streak/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
