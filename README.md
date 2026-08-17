@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rohitfating/DSA-streak/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rohitfating/DSA-streak/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rohitfating/DSA-streak/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rohitfating/DSA-streak/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/rohitfating/DSA-streak/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitfating/DSA-streak/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rohitfating/DSA-streak/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rohitfating/DSA-streak/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitfating/DSA-streak/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Game Theory
@@ -174,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rohitfating/DSA-streak/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rohitfating/DSA-streak/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
