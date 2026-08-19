@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rohitfating/DSA-streak/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/rohitfating/DSA-streak/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rohitfating/DSA-streak/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/rohitfating/DSA-streak/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rohitfating/DSA-streak/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/rohitfating/DSA-streak/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/rohitfating/DSA-streak/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rohitfating/DSA-streak/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rohitfating/DSA-streak/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rohitfating/DSA-streak/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
