@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/rohitfating/DSA-streak/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/rohitfating/DSA-streak/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohitfating/DSA-streak/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rohitfating/DSA-streak/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Bit Manipulation
 |  |
 | ------- |
