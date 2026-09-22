@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/rohitfating/DSA-streak/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rohitfating/DSA-streak/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitfating/DSA-streak/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rohitfating/DSA-streak/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rohitfating/DSA-streak/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/rohitfating/DSA-streak/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/rohitfating/DSA-streak/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitfating/DSA-streak/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Game Theory
 |  |
