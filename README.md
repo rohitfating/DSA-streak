@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/rohitfating/DSA-streak/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/rohitfating/DSA-streak/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/rohitfating/DSA-streak/tree/master/0349-intersection-of-two-arrays) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohitfating/DSA-streak/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rohitfating/DSA-streak/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rohitfating/DSA-streak/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/rohitfating/DSA-streak/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rohitfating/DSA-streak/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitfating/DSA-streak/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rohitfating/DSA-streak/tree/master/0704-binary-search) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohitfating/DSA-streak/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rohitfating/DSA-streak/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rohitfating/DSA-streak/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/rohitfating/DSA-streak/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rohitfating/DSA-streak/tree/master/3745-maximize-expression-of-three-elements) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rohitfating/DSA-streak/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rohitfating/DSA-streak/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rohitfating/DSA-streak/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/rohitfating/DSA-streak/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rohitfating/DSA-streak/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/rohitfating/DSA-streak/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rohitfating/DSA-streak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/rohitfating/DSA-streak/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/rohitfating/DSA-streak/tree/master/0560-subarray-sum-equals-k) |
 | [3731-find-missing-elements](https://github.com/rohitfating/DSA-streak/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
